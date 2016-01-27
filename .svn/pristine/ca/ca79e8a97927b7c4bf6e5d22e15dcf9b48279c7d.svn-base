@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>灯光操作、刮水器</title>
+<script>var mobilequeryc = '',mobilequeryl='',mobilequery='';</script>
+<script>var brotherids = [],currid = 602;</script>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+
+    <div class="c-content"><p class='maxtitle'><strong>一、灯光操作</strong></p><p>汽车灯光的操作一般是通过灯光操作杆来调节的。</p><p class='maxtitle'><strong><img alt="" src="40007_1.png" /></strong></p><p>灯光操作杆通常在方向盘左侧下方，其长度与方向盘半径相当，便于在手握方向盘时操作，可控制远近光切换，左右转向灯和灯光开启和前后雾灯的开启与关闭（多数车辆）。其使用方法是：</p><p>开关：在控制杆上，有转动开关，一般有两个，靠外侧的是灯光开启开关，有三个档，分别为关-（示宽灯）小灯-大灯（远、近光灯）；内侧的转动开关可控制前后雾灯的开启和关闭。</p><p>转向：三个档位，左-关-右，以方向盘为表盘，顺时针方推控制杆，为开启左转向灯，转向结束后可随方向盘回位，也可手动拔回，逆时针拔动，为开启右转向灯。</p><p>远近光切换：两个档位，通常放在近光位置，以方向盘为参照，打开大灯开关后，向下推动，为开启远光灯，此时，开启远光，仪表盘上蓝色灯图标常亮。向上提动，开启近光，仪表盘上，蓝色图标灭，在近光位置，向上提动，为会车提醒灯（远光灯亮）起到提醒作用。手松开后，自动回到近光位置，（若灯光开关未开启，灯光关闭）。</p><p class='maxtitle'><strong>二、刮水器</strong></p><p>一般的风窗玻璃刮水器开关有三个位置，即间歇运动、低速运动和高速运动。</p><p>1、间歇操作：如果刮水器有间歇挡位，一般该挡位的标识是“IW"，刮水器可以在该挡位间歇运作，即往复一次后休息一段时间，再往复一次，如此循环。刮水器的间歇运转时间间隔可以通过刮水器开关上的调整旋钮来调整，一般可以在2-10秒内变练</p><p>2、低挡、高挡操作：刮水器的另外两个挡是低挡运转和高挡运转。低挡的标识是“Lo"，高挡的标识是“Hi"，分别表示刮水器的低频率往复和高频率往复，只需要将刮水器旋钮置于相应的位置处即可。</p><p>为了防止刹水器系统的损坏，严禁刮擦冰雪等重积物。如果冰雪只有薄薄的一层，可以使用除雾加热器把冰雪融化后，再使用刮水器。</p></div>
+    
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+<div id="bottom_ad" style="display:none">
+<div style="text-align:center">
+<script src="http://m.jxedt.com/api/remotejs/appad.js" type="text/javascript"></script>
+</div>
+</div>
+</body>
+</html>

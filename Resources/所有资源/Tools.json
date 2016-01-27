@@ -1,0 +1,267 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "result": {
+        "busybox": {
+            "data": {
+                "first": [
+                          {
+                          "action": {
+                          "actiontype": "loadpage",
+                          "pagetype": "link",
+                          "title": "全国二手车",
+                          "url": "http://jump.luna.58.com/s?spm=b-32486882048012-me-f-801&ch=faxian"
+                          },
+                          "desc": "全国二手车",
+                          "iconurl": "http://t3.58cdn.com.cn/common/jxedt/back/n_v1bl2lwxxvna4vnqyvxzoq_c5e82e3eff7fcb9a.png",
+                          "itemname": "",
+                          "order": 0,
+                          "title": "全国二手车"
+                          },
+                          {
+                          "action": {
+                          "actiontype": "loadpage",
+                          "pagetype": "link",
+                          "title": "新车大全",
+                          "url": "http://jump.luna.58.com/s?spm=b-32504505744139-me-f-804&ch=faxian_xinche"
+                          },
+                          "desc": "新车大全",
+                          "iconurl": "http://t2.58cdn.com.cn/common/jxedt/back/n_v1bkuyfvpxna4vnlbsbjmq_4efbf870af0a0e2d.png",
+                          "itemname": "",
+                          "order": 1,
+                          "title": "新车大全"
+                          },
+                          {
+                          "action": {
+                          "actiontype": "loadpage",
+                          "pagetype": "mianfeishijia",
+                          "title": "免费试驾",
+                          "url": ""
+                          },
+                          "desc": "免费试驾",
+                          "iconurl": "http://t2.58cdn.com.cn/common/jxedt/back/n_v1bl2lwxxvna4vmb3wlbzq_c5e82e3eff7fcb9a.png",
+                          "itemname": "",
+                          "order": 2,
+                          "title": "免费试驾"
+                          },
+                          {
+                          "action": {
+                          "actiontype": "loadpage",
+                          "pagetype": "xundijia",
+                          "title": "低价买全国新车",
+                          "url": ""
+                          },
+                          "desc": "低价买全国新车",
+                          "iconurl": "http://t2.58cdn.com.cn/common/jxedt/back/n_v1bkuyfvnhgy5vnirmfarq_4efbf870af0a0e2d.png",
+                          "itemname": "",
+                          "order": 4,
+                          "title": "新车报价"
+                          }
+                          ],
+                "second": [
+                           {
+                           "action": {
+                           "actiontype": "loadpage",
+                           "pagetype": "link",
+                           "title": "汽车陪练",
+                           "url": "http://peilian.58.com"
+                           },
+                           "desc": "汽车陪练",
+                           "iconurl": "http://t1.58cdn.com.cn/common/jxedt/back/n_v1bl2lwtpvna4vnonltefq_6c7ea76f39c78102.png",
+                           "itemname": "",
+                           "order": 3,
+                           "title": "汽车陪练"
+                           },
+                           {
+                           "action": {
+                           "actiontype": "loadpage",
+                           "pagetype": "link",
+                           "title": "全国违章速查",
+                           "url": "http://weizhang.58.com/m/view?channelid=7&appsource=7&platform=1"
+                           },
+                           "desc": "全国违章速查",
+                           "iconurl": "http://t3.58cdn.com.cn/common/jxedt/back/n_v1bkujjd7una4vnjkjmfqa_cdebc1e04c8f0db9.png",
+                           "itemname": "",
+                           "order": 5,
+                           "title": "违章查询"
+                           },
+                           {
+                           "action": {
+                           "actiontype": "loadpage",
+                           "pagetype": "link",
+                           "title": "双11特惠买车",
+                           "url": "http://api.jxedt.com/jump/UkfDCgYp"
+                           },
+                           "desc": "双11特惠买车",
+                           "iconurl": "http://t2.58cdn.com.cn/common/jxedt/back/n_v1bl2lwtpvna4vnvyan5wa_6c7ea76f39c78102.png",
+                           "itemname": "",
+                           "order": 6,
+                           "tips": {
+                           "newflag1": "true"
+                           },
+                           "title": "易车商城"
+                           },
+                           {
+                           "action": {
+                           "actiontype": "loadpage",
+                           "pagetype": "link",
+                           "title": "最快24小时拿卡",
+                           "url": "http://m.rong360.com/credit/card/landing/2?utm_source=jkydt&utm_medium=xyk&utm_campaign=icon"
+                           },
+                           "desc": "最快24小时拿卡",
+                           "iconurl": "http://t2.58cdn.com.cn/common/jxedt/back/n_v1bkuyfvpwna4vnggn2mya_4efbf870af0a0e2d.png",
+                           "itemname": "",
+                           "order": 7,
+                           "title": "信用卡"
+                           },
+                           {
+                           "action": {
+                           "actiontype": "loadpage",
+                           "pagetype": "link",
+                           "title": "限时免费领取",
+                           "url": "http://sx.360doo.com/colligate/ywx/mobile/home/index.aspx?c=3913&s=2642&p=17589&a=207&v=894DB3182CE2096ACCE6F9C611AEFB6E21581A7B1730572132C79FCC2D6FD90C7D543720A42EF1576854469BAF3894A36EF74F73B05D1D0E"
+                           },
+                           "desc": "限时免费领取",
+                           "iconurl": "http://t1.58cdn.com.cn/common/jxedt/back/n_v1bl2lwxtzoa4vmidnsasa_c5e82e3eff7fcb9a.png",
+                           "itemname": "",
+                           "order": 8,
+                           "title": "免费意外险"
+                           },
+                           {
+                           "action": {
+                           "actiontype": "loadpage",
+                           "pagetype": "link",
+                           "title": "年收益率11.%",
+                           "url": "http://m.ppdai.com/landinginvest.html?regsourceid=58xuechelicai"
+                           },
+                           "desc": "年收益率11%",
+                           "iconurl": "http://t3.58cdn.com.cn/common/jxedt/back/n_v1bl2lwwpuna4vn3qlffsa_6666f81f38fd44ce.png",
+                           "itemname": "",
+                           "order": 9,
+                           "title": "投资理财"
+                           },
+                           {
+                           "action": {
+                           "actiontype": "loadpage",
+                           "pagetype": "link",
+                           "title": "最全车主优惠",
+                           "url": "http://c.360doo.com/IR.aspx?c=3913&s=2642&p=17589&a=200&v=894DB3182CE2096ACCE6F9C611AEFB6E21581A7B1730572140332034995549386657F395913BC1FC0590B7F7E2F48F7F109C6F46C251D125"
+                           },
+                           "desc": "最全车主优惠",
+                           "iconurl": "http://t3.58cdn.com.cn/common/jxedt/back/n_v1bkuymc7vna4vnoqfzqbq_55b683d383d7d405.png",
+                           "itemname": "",
+                           "order": 10,
+                           "title": "车主优惠"
+                           },
+                           {
+                           "action": {
+                           "actiontype": "loadpage",
+                           "pagetype": "biaozhigrid",
+                           "title": "全球车标大全",
+                           "url": ""
+                           },
+                           "desc": "全球车标大全",
+                           "iconurl": "http://t1.58cdn.com.cn/common/jxedt/back/n_v1bkuymc7vna4vnh2f7u6q_55b683d383d7d405.png",
+                           "itemname": "",
+                           "order": 12,
+                           "title": "识车标"
+                           },
+                           {
+                           "action": {
+                           "actiontype": "loadpage",
+                           "pagetype": "link",
+                           "title": "车牌得分大比拼",
+                           "url": "http://m.jxedt.com/chepai/?mobile=android"
+                           },
+                           "desc": "车牌得分大比拼",
+                           "iconurl": "http://t2.58cdn.com.cn/common/jxedt/back/n_v1bl2lwwpvna4vmvmlhyua_6666f81f38fd44ce.png",
+                           "itemname": "",
+                           "order": 12,
+                           "title": "测车牌"
+                           },
+                           {
+                           "action": {
+                           "actiontype": "loadpage",
+                           "pagetype": "mianfeishijia",
+                           "title": "新车免费试驾",
+                           "url": ""
+                           },
+                           "desc": "新车免费试驾",
+                           "iconurl": "http://t2.58cdn.com.cn/common/jxedt/back/n_v1bl2lwwpuna4vnphy3vua_6666f81f38fd44ce.png",
+                           "itemname": "",
+                           "order": 13,
+                           "title": "有奖试驾"
+                           }
+                           ],
+                "third": [
+                          {
+                          "action": {
+                          "actiontype": "loadpage",
+                          "pagetype": "link",
+                          "title": "最高50万，24小时候放款",
+                          "url": "http://m.ppdai.com/landingcps2.html?regsoured=58xuechedaikuan"
+                          },
+                          "desc": "最高50万，24小时候放款",
+                          "iconurl": "http://t2.58cdn.com.cn/common/jxedt/back/n_v1bl2lwwptna4vmh6hqvja_6666f81f38fd44ce.png",
+                          "itemname": "",
+                          "order": 14,
+                          "title": "急用钱？"
+                          },
+                          {
+                          "action": {
+                          "actiontype": "loadpage",
+                          "pagetype": "link",
+                          "title": "投资理财",
+                          "url": "http://t3.58cdn.com.cn/brandads/jxedt/back/n_v1bkujjd2xax4vkk7iaudq_cdebc1e04c8f0db9.png"
+                          },
+                          "desc": "年收益率11.% 600万人选择",
+                          "iconurl": "http://t1.58cdn.com.cn/common/jxedt/back/n_v1bl2lwxxuna4vnkzbrroq_c5e82e3eff7fcb9a.png",
+                          "itemname": "",
+                          "order": 15,
+                          "title": "投资理财"
+                          },
+                          {
+                          "action": {
+                          "actiontype": "loadpage",
+                          "pagetype": "link",
+                          "title": "万元练手车",
+                          "url": "http://jump.luna.58.com/s?spm=b-32486882048012-me-f-801&ch=lianshouche"
+                          },
+                          "desc": "低价入手 新车必备",
+                          "iconurl": "http://t3.58cdn.com.cn/common/jxedt/back/n_v1bl2lwwpuna4vmg2pgneq_6666f81f38fd44ce.png",
+                          "itemname": "",
+                          "order": 16,
+                          "title": "万元练手车"
+                          },
+                          {
+                          "action": {
+                          "actiontype": "loadpage",
+                          "pagetype": "link",
+                          "title": "准新车",
+                          "url": "http://jump.luna.58.com/s?spm=b-32486882048012-me-f-801&ch=zhunxinche"
+                          },
+                          "desc": "免税低价好车",
+                          "iconurl": "http://t2.58cdn.com.cn/common/jxedt/back/n_v1bl2lwxxuna4vntapo5kq_c5e82e3eff7fcb9a.png",
+                          "itemname": "",
+                          "order": 17,
+                          "title": "准新车"
+                          },
+                          {
+                          "action": {
+                          "actiontype": "loadpage",
+                          "pagetype": "link",
+                          "title": "199元施华洛世奇免费领",
+                          "url": "http://4435.mlsuo.com/"
+                          },
+                          "desc": "199元施华洛世奇免费领",
+                          "iconurl": "http://t3.58cdn.com.cn/common/jxedt/back/n_v1bkuyfvpwna4vmutn3r6q_4efbf870af0a0e2d.png",
+                          "itemname": "",
+                          "order": 18,
+                          "title": "今日免费领取"
+                          }
+                          ]
+            },
+            "busyboxcode": "5f2e333c97ebc8f57419eb49433c7b7b"
+        }
+    }
+}

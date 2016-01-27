@@ -1,0 +1,173 @@
+{
+  "categorylist": [
+    {
+      "title": "交通标志",
+      "count": "389",
+      "images":[
+            {
+                "image": "83"
+            },
+            {
+                "image": "96"
+            },
+            {
+                "image": "109"
+            },
+            {
+                "image": "122"
+            }
+                   ],
+      
+      "action": {
+            "actiontype": "loadpage",
+            "extparam": {
+                   "jsonName": "TranfficSign_TypeList",
+                   "pageType": 0
+        },
+        "pagetype": "biaozhilist",
+        "title": "交通标志",
+        "url": ""
+      }
+    },
+    {
+      "title": "汽车仪表盘指示灯",
+      "count": "21",
+       "images":[
+                 {
+                 "image": "7"
+                 },
+                 {
+                 "image": "8"
+                 },
+                 {
+                 "image": "9"
+                 },
+                 {
+                 "image": "1"
+                 }
+                 ],
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "biaozhi_grid_car_panel_light",
+          "pageType": 3
+        },
+        "pagetype": "biaozhigrid",
+        "title": "交通标志",
+        "url": ""
+      }
+    },
+    {
+      "title": "新版交警手势",
+      "count": "8",
+       "images":[
+                 {
+                 "image": "465"
+                 },
+                 {
+                 "image": "466"
+                 },
+                 {
+                 "image": "467"
+                 },
+                 {
+                 "image": "468"
+                 }
+                 ],
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "traffic_police_gesture",
+          "pageType": 3
+        },
+        "pagetype": "",
+        "title": "交通标志",
+        "url": ""
+      }
+    },
+    {
+      "title": "车内功能按键",
+      "count": "6",
+       "images":[
+                 {
+                 "image": "1"
+                 },
+                 {
+                 "image": "2"
+                 },
+                 {
+                 "image": "3"
+                 },
+                 {
+                 "image": "4"
+                 }
+                 ],
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "biaozhi_grid_car_fouction",
+          "pageType": 3
+        },
+        "pagetype": "biaozhigrid",
+        "title": "交通标志",
+        "url": ""
+      }
+    },
+    {
+      "title": "交通事故责任认定图解",
+      "count": "35",
+       "images":[
+                 {
+                 "image": "483"
+                 },
+                 {
+                 "image": "485"
+                 },
+                 {
+                 "image": "494"
+                 },
+                 {
+                 "image": "505"
+                 }
+                 ],
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "biaozhi_grid_traffic_accident",
+          "pageType": 3
+        },
+        "pagetype": "biaozhigrid",
+        "title": "交通标志",
+        "url": ""
+      }
+    },
+    {
+      "title": "色盲测试图集",
+      "count": "19",
+       "images":[
+                 {
+                 "image": "28"
+                 },
+                 {
+                 "image": "29"
+                 },
+                 {
+                 "image": "30"
+                 },
+                 {
+                 "image": "31"
+                 }
+                 ],
+      "action": {
+        "actiontype": "loadpage",
+        "extparam": {
+          "jsonName": "biaozhi_grid_color_blind",
+          "pageType": 3
+        },
+        "pagetype": "biaozhigrid",
+        "title": "交通标志",
+        "url": ""
+      }
+    }
+  ]
+}

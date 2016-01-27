@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>起步 转弯 人行道线</title>
+<script>var mobilequeryc = '',mobilequeryl='',mobilequery='';</script>
+<script>var brotherids = [],currid = 602;</script>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+
+    <div class="c-content"><p class='subcontent'><b>1</b>起步</p><p>起步前检查车门是否完全关闭，调整座椅、后视镜，系好安全带，检查驻车制动器、挡位，启动发动机。检查仪表，观察内、外后视镜，侧头观察后方交通情况，开启转向灯，挂挡，松驻车制动，起步。起步过程平稳、无闯动、无后溜，不熄火。</p><p class='subcontent'><b>2</b>直行通过路口、路口左转弯、路口右转弯</p><p>合理观察交通情况，减速或停车瞭望，根据车辆行驶方向选择相关车道，正确使用转向灯，根据不同路口采取正确的操作方法，安全通过路口。</p><p class='subcontent'><b>3</b>通过人行横道线</p><p>减速，观察两侧交通情况，确认安全后，合理控制车速通过，遇行人停车让行。</p></div>
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+<div id="bottom_ad" style="display:none">
+<div style="text-align:center">
+<script src="http://m.jxedt.com/api/remotejs/appad.js" type="text/javascript"></script>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "653dbede-0a77-49f8-856b-bfa55e873e9e++6489" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "653dbede-0a77-49f8-856b-bfa55e873e9e++6489" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B6458FAB-F9C9-40A0-B5D7-7076D11B272B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "653dbede-0a77-49f8-856b-bfa55e873e9e++6489" : "Car\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Car",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Car.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/10.3.133.18\/LOL",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "653dbede-0a77-49f8-856b-bfa55e873e9e++6489"
+    }
+  ]
+}

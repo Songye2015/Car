@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>通过公共汽车站</title>
+<script>var mobilequeryc = '',mobilequeryl='',mobilequery='';</script>
+<script>var brotherids = [],currid = 620;</script>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+
+    <div class="c-content"><p class='maxtitle'><strong>要求</strong></p><p>通过班车站，应降低速度慢行，挂一挡通过，注意左右仔细查看。</p><p class='maxtitle'><strong>操作方法</strong></p><p class='subcontent'><b>1</b>减速慢行，注意观察公共汽车周围的交通情况，以防突然情况的出现;</p><p class='subcontent'><b>2</b>在超越公共汽车时，注意提防公共汽车起步后突然向左转向或上、下车的乘客从车前、后突然横穿道路，保持较大的安全间距进行超越，并随时做好停车避让的准备;</p><p class='subcontent'><b>3</b>注意避让超越公共汽车的非机动车或行人。</p><p class='maxtitle'><strong>评分标准</strong></p><p class='subcontent'><b>1</b>不观察左、右方交通情况 不及格</p><p class='subcontent'><b>2</b>不按规定减速慢行 不及格</p></div>
+
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+<div id="bottom_ad" style="display:none">
+<div style="text-align:center">
+<script src="http://m.jxedt.com/api/remotejs/appad.js" type="text/javascript"></script>
+</div>
+</div>
+</body>
+</html>

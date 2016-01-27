@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no"> 
+
+<title>版本介绍</title>
+<style>
+   	*{margin:0 ; padding:0;}
+    body{ margin:0 ; padding:0; color:#777777; background:#f4f4f4; font-size:13px; line-height:24px;}
+	.main{   margin:16px 18px}
+	.logo{ width:90px;height:90px; margin: 10px auto; margin-top:30px}
+	.logotxt{ text-align:center; color:#666; font-size:15px; margin-top:10px; margin-bottom:20px}
+	.logo img{ width:90px;height:90px;}
+	.content .list{ line-height:24px;}
+	.content  span{ margin-top:1px; background:#58bbb8; display:block; float:left; border:1px solid #3fa8a5; color:#FFF; border-radius:50%; height:18px; width:18px; text-align:center; line-height:18px;  }
+	.content  font{ float:left; width:86%; display:block  ; margin-left:12px;}
+	.content{ }
+	.content{ line-height:22px; font-size:13px; font-family:'微软雅黑'; padding: 6px 0;} 
+	.content p{padding: 6px 0;}
+		
+    .clear{ clear:both; height:0; overflow:hidden}
+	.lists{ padding-top:7px; padding-bottom:7px}
+	.mimg{ padding:8px 0; }
+	.mimg img{ width:98%; border:1px solid #dedede; padding:2px}
+</style>
+</head>
+
+<body>
+
+<div class="main">
+<div class="logo"><img src="app_logo.png" /></div>
+<div class="logotxt">iOS 版本 V3.9.5</div>
+<div class="content">
+	 
+
+
+<p>本次版本更新内容:</p>
+<p class="list">  
+<div class="lists">  
+    <span>1</span><font>VIP版来了！助你通过率直线飙升！</font><div class="clear"></div>
+</div><div class="lists">  
+<span>2</span><font>绑定教练大升级：同步模拟成绩，优先安排考试！</font><div class="clear"></div>
+</div><div class="lists">
+<span>3</span><font>学习进度云端同步，换手机也不怕！</font><div class="clear"></div>
+</div><div class="lists">
+<span>4</span><font>更多基础体验优化。</font><div class="clear"></div>
+</div><div class="lists">
+</p>
+
+
+<p>驾校一点通，十年专注，学车全程为您指导。如此神奇的软件，谁用谁知道~</p>
+
+
+<p>业务合作：yangchao@58peilian.com</p>
+</div>
+
+
+</div>
+ 
+   
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>通过人行横道线</title>
+<script>var mobilequeryc = '',mobilequeryl='',mobilequery='';</script>
+<script>var brotherids = [],currid = 618;</script>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+
+    <div class="c-content"><p class='maxtitle'><strong>学车中的通过人行横道线</strong></p><p>人行横道线，俗称斑马线，是由一条一条的白色线组成的，主要是用来让行人穿越马路的。 驾驶员驾驶车辆通过人行横道时应该减速缓行，注意礼让行人。</p><p class='maxtitle'><strong>考核要求</strong></p><p>当驾车进入路面有施划人行横道线的，应观察前后左右的交通情况，适时减速慢行，遇有行人或牵行非机动车通过人行横道的，应停车让行。通过学校区域还应禁鸣喇叭。</p><p class='maxtitle'><strong>评分标准</strong></p><p class='subcontent'><b>1</b>不观察左、右方交通情况，不合格;</p><p class='subcontent'><b>2</b>不按规定减速慢行，不合格</p><p class='subcontent'><b>3</b>遇行人通过人行横道不停车让行，不合格。</p></div>
+
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+<div id="bottom_ad" style="display:none">
+<div style="text-align:center">
+<script src="http://m.jxedt.com/api/remotejs/appad.js" type="text/javascript"></script>
+</div>
+</div>
+</body>
+
+
+</html>

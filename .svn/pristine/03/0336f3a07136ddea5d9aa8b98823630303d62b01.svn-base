@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>路口左转弯</title>
+<script>var mobilequeryc = '',mobilequeryl='',mobilequery='';</script>
+<script>var brotherids = [],currid = 616;</script>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+
+    <div class="c-content"><p class='maxtitle'><strong>注意事项</strong></p><p>在交叉路口左转弯时，应提前减速进入左转弯车道(有左转待转区的路口，应在绿灯亮时进入待转区)或靠道路左侧等待。</p><p>绿灯亮或绿色左转箭头灯亮时，应及时观察侧前方交通情况或通过内、外后视镜观察左侧、后方交通情况;同时注意观察对面是否有右转弯的车辆侵占行驶路线，确保安全转弯。</p><p class='maxtitle'><strong>评分标准</strong></p><p class='subcontent'><b>1</b>不按规定减速或停车瞭望的，不合格;</p><p class='subcontent'><b>2</b>不观察左、右方交通情况，转弯通过路口时，未观察侧前方交通情况的，不合格;</p><p class='subcontent'><b>3</b>遇有路口交通阻塞时进入路口，将车辆停在路口内等候的，不合格;</p><p class='subcontent'><b>4</b>左转通过路口时，未靠路口中心点左侧转弯的，扣10分。</p></div>
+
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+<div id="bottom_ad" style="display:none">
+<div style="text-align:center">
+<script src="http://m.jxedt.com/api/remotejs/appad.js" type="text/javascript"></script>
+</div>
+</div>
+</body>
+</html>

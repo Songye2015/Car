@@ -1,0 +1,175 @@
+{
+    "shunxulianxi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "orderquestion",
+        "title": "顺序练习",
+        "url": ""
+    },
+    "suijilianxi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "randomquestion",
+        "title": "随机练习",
+        "url": ""
+    },
+    "beitimoshi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "recitativequestion",
+        "title": "背题模式",
+        "url": ""
+    },
+    "zhangjielianxi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "chapterlist",
+        "title": "章节练习",
+        "url": ""
+    },
+    "weizuodeti": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "unReadQuestionsVC",
+        "title": "未做的题",
+        "url": ""
+    },
+    "zhuanxianglianxi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "speciallist",
+        "title": "专项练习",
+        "url": ""
+    },
+    "kaoshiyaodian": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "link",
+        "title": "考试技巧",
+        "url": "http://bbs.api.jxedt.com/news/h5/214/index",
+        "jsondata":"[{\"id\":11,\"pid\":10,\"title\":\"合格标准\",\"isclass\":0,\"sinfo\":\"考试内容及合格标准\"},{\"id\":47,\"pid\":10,\"title\":\"扣分细则\",\"isclass\":0,\"sinfo\":\"2015交规扣分标准\"},{\"id\":48,\"pid\":10,\"title\":\"手势口诀\",\"isclass\":0,\"sinfo\":\"八种交警手势信号口诀\"},{\"id\":70,\"pid\":10,\"title\":\"考试技巧\",\"isclass\":0,\"sinfo\":\"100%通过理论考试技巧\"},{\"id\":81,\"pid\":10,\"title\":\"酒驾要点\",\"isclass\":0,\"sinfo\":\"最新酒驾知识要点总结\"},{\"id\":747,\"pid\":10,\"title\":\"交规巧记\",\"isclass\":0,\"sinfo\":\"交通安全规范要点巧记\"},{\"id\":748,\"pid\":10,\"title\":\"处罚相关题巧记\",\"isclass\":0,\"sinfo\":\"处罚题目要点快速巧记\"},{\"id\":749,\"pid\":10,\"title\":\"罚款金额题巧记\",\"isclass\":0,\"sinfo\":\"罚款题目要点快速巧记\"},{\"id\":750,\"pid\":10,\"title\":\"最低、最高时速题巧记\",\"isclass\":0,\"sinfo\":\"最低、最高时速题目快速巧记\"},{\"id\":751,\"pid\":10,\"title\":\"安全距离题巧记\",\"isclass\":0,\"sinfo\":\"安全距离题目要点快速巧记\"},{\"id\":752,\"pid\":10,\"title\":\"日期类题目巧记\",\"isclass\":0,\"sinfo\":\"日期类型题目要点快速巧记\"},{\"id\":753,\"pid\":10,\"title\":\"易混淆知识点\",\"isclass\":0,\"sinfo\":\"各类容易混淆的知识要点巧记\"}]"
+    },
+    "baoguozige": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "PassCardVC",
+        "title": "保过卡",
+        "url": "",
+        "jsondata":""
+    },
+    
+    "monikaoshi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "examentry",
+        "title": "全真模拟考试",
+        "url": ""
+    },
+    
+    "wodeshoucang": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "collectlist",
+        "title": "我的收藏",
+        "url": ""
+    },
+    "paichudeti": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "removelist",
+        "title": "排除的题",
+        "url": ""
+    },
+    "lianxitongji": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "mychengji",
+        "title": "练习统计",
+        "url": ""
+    },
+    "paihangbang": {
+        "actiontype": "loadpage",
+        "extparam": "paihangbang",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "ScoreRankList",
+        "title": "排行榜",
+        "url": ""
+    },
+    
+    "wodecuoti": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "errorlist",
+        "title": "我的错题",
+        "url": ""
+    },
+    "wodechengji": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "localweb",
+        "title": "考试详解",
+        "url": "zgz_04"
+    },
+    
+    
+    "baomingxuzhi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "CommonNativeList",
+        "title": "报名须知",
+        "url": "",
+        "jsondata":"[{\"id\":2,\"pid\":1,\"title\":\"报名条件\",\"isclass\":0,\"sinfo\":\"身体情况及年龄条件\"},{\"id\":3,\"pid\":1,\"title\":\"择校指南\",\"isclass\":0,\"sinfo\":\"教你如何选择好驾校\"},{\"id\":4,\"pid\":1,\"title\":\"学车费用\",\"isclass\":0,\"sinfo\":\"学车费用组成及退费\"},{\"id\":6,\"pid\":1,\"title\":\"体检事项\",\"isclass\":0,\"sinfo\":\"学车体检项目及规定\"},{\"id\":8,\"pid\":1,\"title\":\"学车流程\",\"isclass\":0,\"sinfo\":\"考试顺序及考核内容\"},{\"id\":9,\"pid\":1,\"title\":\"作弊与处罚\",\"isclass\":0,\"sinfo\":\"违反考试纪律处罚规定\"},{\"id\":746,\"pid\":1,\"title\":\"准驾车型及代号\",\"isclass\":0,\"sinfo\":\"什么驾照开什么类型的车\"}]"
+    },
+    "faguikaoshi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "CommonNativeList",
+        "title": "驾考法规",
+        "url": "",
+        "jsondata":"[{\"id\":657,\"pid\":656,\"title\":\"2013年《机动车驾驶证申领和使用规定》\",\"isclass\":0,\"sinfo\":\"驾驶证申领和使用规定\"},{\"id\":659,\"pid\":656,\"title\":\"中华人民共和国道路交通安全法（2011修正）\",\"isclass\":0,\"sinfo\":\"道路交通安全法\"},{\"id\":661,\"pid\":656,\"title\":\"道路交通安全违法行为处理程序规定\",\"isclass\":0,\"sinfo\":\"安全违法行为处理程序\"},{\"id\":662,\"pid\":656,\"title\":\"道路交通事故处理程序规定\",\"isclass\":0,\"sinfo\":\"事故处理程序规定\"},{\"id\":663,\"pid\":656,\"title\":\"酒驾新规\",\"isclass\":0,\"sinfo\":\"酒驾最新处罚条文\"}]"
+    },
+    "jiaotongbiaozhi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "TranfficSign",
+        "title": "交通标志",
+        "url": ""
+    },
+    "xinshoushanglu": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "CommonNativeList",
+        "title": "新手上路",
+        "url": "",
+        "jsondata":"[{\"id\":637,\"pid\":636,\"title\":\"驾照年审、年检\",\"isclass\":0,\"sinfo\":\"驾照年审年检流程须知\"},{\"id\":638,\"pid\":636,\"title\":\"驾照换证\",\"isclass\":0,\"sinfo\":\"驾照各种换证须知\"},{\"id\":639,\"pid\":636,\"title\":\"驾照遗失\",\"isclass\":0,\"sinfo\":\"驾照遗失补办须知\"},{\"id\":640,\"pid\":636,\"title\":\"驾照挂失\",\"isclass\":0,\"sinfo\":\"驾照挂失办理须知\"},{\"id\":641,\"pid\":636,\"title\":\"实用驾车技巧\",\"isclass\":1,\"sinfo\":\"驾车常识技巧经验分享\",\"child_list\":[{\"id\":642,\"pid\":641,\"title\":\"车辆基本操作\",\"isclass\":0,\"sinfo\":\"正确驾驶车辆基本操作详解\"},{\"id\":643,\"pid\":641,\"title\":\"隧道行驶注意事项\",\"isclass\":0,\"sinfo\":\"隧道驾驶安全注意事项\"},{\"id\":644,\"pid\":641,\"title\":\"特殊天气驾驶技巧\",\"isclass\":0,\"sinfo\":\"雨天、雾天、雪天等天气行车技巧\"},{\"id\":645,\"pid\":641,\"title\":\"夜间行驶技巧\",\"isclass\":0,\"sinfo\":\"夜间行车安全驾驶技巧\"},{\"id\":646,\"pid\":641,\"title\":\"刹车技巧\",\"isclass\":0,\"sinfo\":\"正确操作刹车技巧解读\"}]},{\"id\":647,\"pid\":636,\"title\":\"各种停车技巧\",\"isclass\":1,\"sinfo\":\"各种停车技巧大全\",\"child_list\":[{\"id\":648,\"pid\":647,\"title\":\"基本停车\",\"isclass\":0,\"sinfo\":\"泊车基础步骤巧解读\"},{\"id\":649,\"pid\":647,\"title\":\"垂直式停车位\",\"isclass\":0,\"sinfo\":\"垂直式停车位泊车技巧\"},{\"id\":650,\"pid\":647,\"title\":\"侧方停车位\",\"isclass\":0,\"sinfo\":\"侧方停车方法详解\"},{\"id\":651,\"pid\":647,\"title\":\"斜线停车位\",\"isclass\":0,\"sinfo\":\"斜线停车位泊车技巧\"},{\"id\":652,\"pid\":647,\"title\":\"串联式停车\",\"isclass\":0,\"sinfo\":\"串联式停车技巧详解\"},{\"id\":653,\"pid\":647,\"title\":\"并联式停车\",\"isclass\":0,\"sinfo\":\"并联式停车技巧与方法\"},{\"id\":654,\"pid\":647,\"title\":\"地下车库停车位\",\"isclass\":0,\"sinfo\":\"地下车库停车方法巧解读\"},{\"id\":655,\"pid\":647,\"title\":\"非字形车位\",\"isclass\":0,\"sinfo\":\"非字形车位停车方法\"}]}]"
+    },
+    "saibojindu": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType1st",
+        "pagetype": "KaoZheng",
+        "title": "考证进度",
+        "url": ""
+    }
+    
+    
+    
+}

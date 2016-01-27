@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>跟车行驶</title>
+<script>var mobilequeryc = '',mobilequeryl='',mobilequery='';</script>
+<script>var brotherids = [],currid = 602;</script>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+
+    <div class="c-content"><p>在同向行驶的一列汽车中，后车跟随前车运行，驾驶员总不愿意落后很多，总是紧随前车。这是一种“紧随要求”。因此，正确的跟车方法，是既要保证行车安全，又不致影响道路的交通容量。行车实践证明，为保证行车安全，跟车距离不得小于安全间距。</p><p>跟车需要注意以下几个方面的问题：</p><p>1、跟车时精力要高度集中，使自己所驾车辆在前车任何情况下停车时，也能及时停下来，即使前车制动灯不亮，或突然横滑、甩尾时也能从容应付。</p><p>2、在所驾车辆制动效果不佳，或货车载人，或运送大件物品时，应适当加大跟车距离，以留有足够的安全系数。</p><p>3、在遇转弯或前车超车时，要注意观察、判断，以防突发情况来到时措手不及。</p><p>4、操作技术不熟练，或反应较慢的驾驶员应逐步摸索出合适的跟车距离，以留出足够的反应距离或制动迟滞距离。</p>
+
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+<div id="bottom_ad" style="display:none">
+<div style="text-align:center">
+<script src="http://m.jxedt.com/api/remotejs/appad.js" type="text/javascript"></script>
+</div>
+</div>
+</body>
+</html>

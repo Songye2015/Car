@@ -1,0 +1,245 @@
+{
+    "kaoqianzhunbei":{
+        "title":"考前准备",
+        "color":"#6bbd3d",
+        "content":  [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "201",
+                     },
+                     "pagetype": "headLine",
+                     "title": "须知",
+                     "url": "http://bbs.api.jxedt.com/news/h5/201/index"
+                     },
+                     "desc": "报名须知事项",
+                     "iconurl": "xuzhi",
+                     "itemname": "须知"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "TranfficSign",
+                     "title": "图标",
+                     "url": ""
+                     },
+                     "desc": "交通标志大全",
+                     "iconurl": "tubiao",
+                     "itemname": "图标"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "203",
+                     },
+                     "pagetype": "headLine",
+                     "title": "法规",
+                     "url": "http://bbs.api.jxedt.com/news/h5/203/index"
+                     },
+                     "desc": "道路法律法规",
+                     "iconurl": "fagui",
+                     "itemname": "法规"
+                     }]
+    },
+    "xuechejiqiao":{
+        "title":"学车技巧",
+        "color":"#ff6b62",
+        "content":  [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "204",
+                     },
+                     "pagetype": "headLine",
+                     "title": "科目一",
+                     "url": "http://bbs.api.jxedt.com/news/h5/204/index"
+                     },
+                     "desc": "备战理论考试",
+                     "iconurl": "lilunks",
+                     "itemname": "科目一"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "205",
+                     },
+                     "pagetype": "headLine",
+                     "title": "科目二",
+                     "url": "http://bbs.api.jxedt.com/news/h5/205/index"
+                     },
+                     "desc": "科目二小路考",
+                     "iconurl": "xiaolukao",
+                     "itemname": "科目二"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "206",
+                     },
+                     "pagetype": "headLine",
+                     "title": "科目三",
+                     "url": "http://bbs.api.jxedt.com/news/h5/206/index"
+                     },
+                     "desc": "科目三大路考",
+                     "iconurl": "dalukao",
+                     "itemname": "科目三"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "207",
+                     },
+                     "pagetype": "headLine",
+                     "title": "科目四",
+                     "url": "http://bbs.api.jxedt.com/news/h5/207/index"
+                     },
+                     "desc": "备考安全文明",
+                     "iconurl": "anquanwm",
+                     "itemname": "科目四"
+                     }]
+    },
+    "xinshoushanglu":{
+        "title":"新手上路",
+        "color":"#5cade8",
+        "content":  [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "208",
+                     },
+                     "pagetype": "headLine",
+                     "title": "指南",
+                     "url": "http://bbs.api.jxedt.com/news/h5/208/index"
+                     },
+                     "desc": "驾照使用指南",
+                     "iconurl": "jiazhaosyzn",
+                     "itemname": "指南"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "209",
+                     },
+                     "pagetype": "headLine",
+                     "title": "新手",
+                     "url": "http://bbs.api.jxedt.com/news/h5/209/index"
+                     },
+                     "desc": "新手上路指导",
+                     "iconurl": "xinshou",
+                     "itemname": "新手"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "210",
+                     },
+                     "pagetype": "headLine",
+                     "title": "处理",
+                     "url": "http://bbs.api.jxedt.com/news/h5/210/index"
+                     },
+                     "desc": "故障和事故处理",
+                     "iconurl": "shiguchuli",
+                     "itemname": "处理"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "211",
+                     },
+                     "pagetype": "headLine",
+                     "title": "易错",
+                     "url": "http://bbs.api.jxedt.com/news/h5/211/index"
+                     },
+                     "desc": "新手易犯错误",
+                     "iconurl": "yifancuowu",
+                     "itemname": "易错"
+                     }]
+    },
+    "zigezheng":{
+        "title":"资格证技巧",
+        "color":"#ff7522",
+        "content":  [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "212",
+                     },
+                     "pagetype": "headLine",
+                     "title": "教练员",
+                     "url": "http://bbs.api.jxedt.com/news/h5/212/index"
+                     },
+                     "desc": "培养合格驾驶员",
+                     "iconurl": "peiyhgjsy",
+                     "itemname": "教练员"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "213",
+                     },
+                     "pagetype": "headLine",
+                     "title": "货远",
+                     "url": "http://bbs.api.jxedt.com/news/h5/213/index"
+                     },
+                     "desc": "货物顺利送达",
+                     "iconurl": "huoyunsl",
+                     "itemname": "货运"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "214",
+                     },
+                     "pagetype": "headLine",
+                     "title": "客运",
+                     "url": "http://bbs.api.jxedt.com/news/h5/214/index"
+                     },
+                     "desc": "安全旅行服务",
+                     "iconurl": "anguanky",
+                     "itemname": "客运"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "215",
+                     },
+                     "pagetype": "headLine",
+                     "title": "危险品",
+                     "url": "http://bbs.api.jxedt.com/news/h5/215/index"
+                     },
+                     "desc": "确保安全",
+                     "iconurl": "weixianpin",
+                     "itemname": "危险品"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "216",
+                     },
+                     "pagetype": "headLine",
+                     "title": "出租车",
+                     "url": "http://bbs.api.jxedt.com/news/h5/216/index"
+                     },
+                     "desc": "全心服务乘客",
+                     "iconurl": "chuzuche",
+                     "itemname": "出租车"
+                     }]
+    }
+    
+}

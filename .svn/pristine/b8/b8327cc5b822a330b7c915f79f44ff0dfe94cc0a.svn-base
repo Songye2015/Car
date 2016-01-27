@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>合格标准_驾校一点通</title>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+<style>
+body{background: #f4f4f4 !important;}
+.zhunjiachexing-content{ text-align:center !important;padding-top: 14px;}
+.zhunjiachexing-content p{ text-indent:0 !important; text-align:center;}
+.zhunjiachexing-content p img{ border:none !important; max-width:98% !important;}
+.c-pic img{ border:none;}
+</style>
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+    <div class="c-content"><p class='maxtitle'><strong>普通公路：</strong></p><p class='subcontent'><b>1</b>在没有限速标志、标线的道路情况下的最高时速:没有道路中心线的城市道路为30公里，公路为40公里；同方向只有一条机动车道的城市道路为50公里，公路为70公里。</p><p class='subcontent'><b>2</b>遇雾、雨、雪、沙尘、冰雹，能见度在50米以内时，最高时速30公里。</p><p class='subcontent'><b>3</b>掉头、转弯、下陡坡时，最高时速30公里。</p><p class='subcontent'><b>4</b>在冰雪、泥泞的道路上行使时，最高时速30公里。</p><p class='subcontent'><b>5</b>牵引发生故障的机动车时，最高时速30公里。</p><p class='subcontent'><b>6</b>进出非机动车道，通过铁路道口、急转弯、窄路、窄桥时，最高时速30公里。</p><p class='maxtitle'><strong>高速公路：</strong></p><p class='subcontent'><b>1</b>正常行驶，最低时速60公里，最高时速120公里。</p><p class='subcontent'><b>2</b>当同前车保持100米安全距离时，最高时速100公里。</p><p class='subcontent'><b>3</b>同向2车道的最低时速为：左侧车道100公里。</p><p class='subcontent'><b>4</b>同向3车道的最低时速为：左侧车道110公里；中间车道90公里；右侧车道60公里。</p><p class='subcontent'><b>5</b>能见度小于50米，在开启雾灯、近光灯、示廓灯、前后位灯、危险报警闪光灯时，最高车速20公里，并从最近的出口尽快驶离高速公里。</p><p class='subcontent'><b>6</b>能见度小于100米，在开启雾灯、近光灯、示廓灯、前后位灯、危险报警闪光灯时，最高车速40公里，与同车道前车保持50米以上的距离。</p><p class='subcontent'><b>7</b>能见度小于200米，在开启雾灯、近光灯、示廓灯、前后位灯，最高车速60公里，与同车道前车保持100米以上的距离。</p></div>
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+</body>
+</html>

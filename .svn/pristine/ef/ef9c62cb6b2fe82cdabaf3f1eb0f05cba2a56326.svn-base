@@ -1,0 +1,412 @@
+{
+    "code": 0,
+    "msg": "OK",
+    "result": {
+        "discover": {
+            "data": [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "bbs",
+                     "title": "驾考社区",
+                     "url": "http://bbs.api.jxedt.com/list/home/"
+                     },
+                     "desc": "303万人参与讨论",
+                     "iconurl": "http://t1.58cdn.com.cn/brandads/jxedt/back/n_v1bkuyfvi3yt7vk2z4jyya_4efbf870af0a0e2d.png",
+                     "itemname": "jiakaoquan",
+                     "position": "top",
+                     "tips": {
+                     "redpoint": true
+                     },
+                     "title": "驾考社区"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "驾考头条",
+                     "url": "http://bbs.api.jxedt.com/news/h5/101/index"
+                     },
+                     "desc": "879万人正在关注",
+                     "iconurl": "http://t1.58cdn.com.cn/brandads/jxedt/back/n_v1bkujjdy3yt7vkervhyaq_cdebc1e04c8f0db9.png",
+                     "itemname": "jiakaotoutiao",
+                     "position": "top",
+                     "tips": {
+                     "redpoint": false
+                     },
+                     "title": "驾考头条"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "driverguide",
+                     "title": "学车指南",
+                     "url": ""
+                     },
+                     "desc": "",
+                     "iconurl": "http://t3.58cdn.com.cn/brandads/jxedt/back/n_v1bl2lwwjoyt7vkdx5j4wq_6666f81f38fd44ce.png",
+                     "itemname": "xuechezhinan",
+                     "position": "top",
+                     "tips": {
+                     "redpoint": false
+                     },
+                     "title": "学车指南"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "58汽车陪练",
+                     "url": "http://peilian.58.com"
+                     },
+                     "desc": "58保障，陪练首选",
+                     "iconurl": "http://t1.58cdn.com.cn/brandads/jxedt/back/n_v1bl2lwwi3yt7vkmputvla_6666f81f38fd44ce.png",
+                     "itemname": "58qichepeilian",
+                     "position": "bottom",
+                     "tips": {
+                     "redpoint": false
+                     },
+                     "title": "汽车陪练"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "二手车",
+                     "url": "http://jump.luna.58.com/s?spm=b-32486882048012-me-f-801&ch=faxian"
+                     },
+                     "desc": "最大个人二手车平台",
+                     "iconurl": "http://t1.58cdn.com.cn/brandads/jxedt/back/n_v1bkuyfvi3yt7vl6x2x4ka_4efbf870af0a0e2d.png",
+                     "itemname": "58ershouche",
+                     "position": "bottom",
+                     "tips": {
+                     "redpoint": false
+                     },
+                     "title": "二手车"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "58新车",
+                     "url": "http://jump.luna.58.com/s?spm=b-32504505744139-me-f-804&ch=faxian_xinche"
+                     },
+                     "desc": "",
+                     "iconurl": "http://t2.58cdn.com.cn/brandads/jxedt/back/n_v1bl2lwxroyt7vka2mm4yq_c5e82e3eff7fcb9a.png",
+                     "itemname": "58newcar",
+                     "position": "bottom",
+                     "tips": {
+                     "redpoint": false
+                     },
+                     "title": "58新车"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "58同城服务",
+                     "url": "http://jump.luna.58.com/i/26WM"
+                     },
+                     "desc": "",
+                     "iconurl": "http://api.jxedt.com/img/display/58tongcheng.png",
+                     "itemname": "58tongchengfuwu",
+                     "position": "bottom",
+                     "tips": {
+                     "redpoint": false
+                     },
+                     "title": "同城服务"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "司机招聘",
+                     "url": "http://jump.luna.58.com/s?spm=b-32504505744139-me-f-804&ch=faxiansiji"
+                     },
+                     "desc": "",
+                     "iconurl": "http://api.jxedt.com/img/display/driver.png",
+                     "itemname": "58driver",
+                     "position": "bottom",
+                     "tips": {
+                     "redpoint": false
+                     },
+                     "title": "司机招聘"
+                     }
+                     ],
+            "version": 31
+        },
+        "drivernecessarily": {
+            "data": [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "58陪练",
+                     "url": "http://peilian.58.com"
+                     },
+                     "desc": "58陪练",
+                     "iconurl": "http://api.jxedt.com/img/tools/nb_peilian.png",
+                     "itemname": "58qichepeilian",
+                     "position": "top",
+                     "tips": {
+                     "newflag": true
+                     },
+                     "title": "58陪练"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "58新车",
+                     "url": "http://che.m.58.com/?utm_source=jxydt_app_tool"
+                     },
+                     "desc": "58新车",
+                     "iconurl": "http://api.jxedt.com/img/tools/nb_xinche.png",
+                     "itemname": "58newcar",
+                     "position": "top",
+                     "tips": {
+                     "new": false
+                     },
+                     "title": "58新车"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "58二手车",
+                     "url": "http://jump.luna.58.com/s?spm=s-11038619384838-ms-f-653&ch=ershouche"
+                     },
+                     "desc": "58二手车",
+                     "iconurl": "http://api.jxedt.com/img/tools/nb_ershouche.png",
+                     "itemname": "58ershouche",
+                     "position": "top",
+                     "tips": {
+                     "newflag": false
+                     },
+                     "title": "58二手车"
+                     }
+                     ],
+            "version": 2
+        },
+        "tools": {
+            "data": [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "58陪练",
+                     "url": "http://peilian.58.com"
+                     },
+                     "desc": "58陪练",
+                     "iconurl": "http://api.jxedt.com/img/tools/58qichepeilian.png",
+                     "itemname": "58qichepeilian",
+                     "position": "top",
+                     "tips": {
+                     "newflag": true
+                     },
+                     "title": "58陪练"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "查违章",
+                     "url": "http://weizhang.58.com/m/view?channelid=7&appsource=7&platform=1"
+                     },
+                     "desc": "58违章查询",
+                     "iconurl": "http://api.jxedt.com/img/tools/weizhangchaxun.png",
+                     "itemname": "weizhangchaxun",
+                     "position": "top",
+                     "tips": {
+                     "newflag": false
+                     },
+                     "title": "58违章查询"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "58二手车",
+                     "url": "http://jump.luna.58.com/s?spm=b-32486882048012-me-f-801&ch=gongju"
+                     },
+                     "desc": "58二手车",
+                     "iconurl": "http://api.jxedt.com/img/tools/58ershouche.png",
+                     "itemname": "58ershouche",
+                     "position": "top",
+                     "tips": {
+                     "newflag": false
+                     },
+                     "title": "58二手车"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "测车牌",
+                     "url": "http://m.jxedt.com/chepai/?mobile=iphone"
+                     },
+                     "desc": "测车牌",
+                     "iconurl": "http://api.jxedt.com/img/tools/cechepai.png",
+                     "itemname": "cechepai",
+                     "position": "top",
+                     "tips": {
+                     "newflag": false
+                     },
+                     "title": "测车牌"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "biaozhigrid",
+                     "title": "识车标",
+                     "url": ""
+                     },
+                     "desc": "识车标",
+                     "iconurl": "http://api.jxedt.com/img/tools/shichebiao.png",
+                     "itemname": "shichebiao",
+                     "position": "top",
+                     "tips": {
+                     "newflag": false
+                     },
+                     "title": "识车标"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "赶集好车",
+                     "url": "http://3g.ganji.com/misc/cooperation/?source=jxydt1"
+                     },
+                     "desc": "赶集好车",
+                     "iconurl": "http://api.jxedt.com/img/tools/ganjihaoche.png",
+                     "itemname": "ganjihaoche",
+                     "position": "top",
+                     "tips": {
+                     "newflag": false
+                     },
+                     "title": "赶集好车"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "58新车",
+                     "url": "http://jump.luna.58.com/s?spm=b-32504505744139-me-f-804&ch=gongju_xinche"
+                     },
+                     "desc": "58新车",
+                     "iconurl": "http://api.jxedt.com/img/tools/58xinche.png",
+                     "itemname": "58newcar",
+                     "position": "top",
+                     "tips": {
+                     "new": false
+                     },
+                     "title": "58新车"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "58tongchengfuwu",
+                     "pagetype": "link",
+                     "title": "免费试驾",
+                     "url": "http://che.m.58.com/zhuanti/shijia.html"
+                     },
+                     "desc": "免费试驾",
+                     "iconurl": "http://api.jxedt.com/img/tools/mianfeishijia.png",
+                     "itemname": "mianfeishijia",
+                     "position": "top",
+                     "tips": {
+                     "new": false
+                     },
+                     "title": "免费试驾"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "免费意外险",
+                     "url": "http://api.jxedt.com/jump/fIfU3hsM"
+                     },
+                     "desc": "免费意外险",
+                     "iconurl": "http://api.jxedt.com/img/tools/ywbz.png",
+                     "itemname": "freeins",
+                     "position": "bottom",
+                     "tips": {
+                     "newflag": false
+                     },
+                     "title": "免费意外险"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "新手训练营",
+                     "url": "http://api.jxedt.com/jump/s2fVDi4h"
+                     },
+                     "desc": "新手训练营",
+                     "iconurl": "http://api.jxedt.com/img/tools/xinshou.png",
+                     "itemname": "xinshoutrain",
+                     "position": "bottom",
+                     "tips": {
+                     "new": false
+                     },
+                     "title": "新手训练营"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "在线办卡",
+                     "url": "http://m.rong360.com/credit/card/landing/2?utm_source=jkydt&utm_medium=xyk&utm_campaign=icon"
+                     },
+                     "desc": "在线办卡",
+                     "iconurl": "http://api.jxedt.com/img/tools/rong360card.png",
+                     "itemname": "360card",
+                     "position": "bottom",
+                     "tips": {
+                     "newflag": false
+                     },
+                     "title": "在线办卡"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "轻松理财",
+                     "url": "http://m.ppdai.com/landinginvest.html?regsourceid=58xuechelicai"
+                     },
+                     "desc": "轻松理财",
+                     "iconurl": "http://api.jxedt.com/img/tools/paipaidai.png",
+                     "itemname": "paipaidai",
+                     "position": "bottom",
+                     "tips": {
+                     "newflag": false
+                     },
+                     "title": "轻松理财"
+                     }
+                     ],
+            "version": 40
+        }
+    }
+}

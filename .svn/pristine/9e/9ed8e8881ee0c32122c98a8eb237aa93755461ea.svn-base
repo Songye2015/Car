@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>合格标准_驾校一点通</title>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+<style>
+body{background: #f4f4f4 !important;}
+.zhunjiachexing-content{ text-align:center !important;padding-top: 14px;}
+.zhunjiachexing-content p{ text-indent:0 !important; text-align:center;}
+.zhunjiachexing-content p img{ border:none !important; max-width:98% !important;}
+.c-pic img{ border:none;}
+</style>
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+    <div class="c-content"><p class='maxtitle'><strong>普通公路：</strong></p><p class='subcontent'><b>1</b>白天或夜间在公路上发生故障时，设警告标志位置为车后50～100米处。</p><p class='subcontent'><b>2</b>使用软连接牵引装置时，两车之间的距离大于4米小于10米。</p><p class='subcontent'><b>3</b>夜间会车时，在距离150米以外改用近光灯。</p><p class='subcontent'><b>4</b>在交叉路口、急弯路、窄桥、桥梁、陡坡、铁道路口、隧道，50米以内不得停车。</p><p class='subcontent'><b>5</b>在公交汽车站、急救站、加油站、消除队（站），30米以内不得停车。</p><p class='maxtitle'><strong>高速公路：</strong></p><p class='subcontent'><b>1</b>高速公路上发生故障时，设警告标志位置为车后150米以外。</p><p class='subcontent'><b>2</b>时速超过100公里时，需保持100米以上的安全距离。</p><p class='subcontent'><b>3</b>时速低于100公里时，需保持50米以上的安全距离。</p><p class='subcontent'><b>4</b>车速为100公里时，最小横向间距为1.5米；安全距离为100米；危险车间距为50米。</p><p class='subcontent'><b>5</b>驶离高速公路最佳时机，离出口500米处。</p></div>
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+</body>
+</html>

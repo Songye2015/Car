@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>超车</title>
+<script>var mobilequeryc = '',mobilequeryl='',mobilequery='';</script>
+<script>var brotherids = [],currid = 622;</script>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+
+    <div class="c-content"><p class='maxtitle'><strong>概念</strong></p><p>超车，即车辆经过另一辆车的侧面，从后面超过前面同方向行驶的车辆。用于超车的车道一般为内侧车道，即较接近道路中心而离路肩较远的车道。在靠右行驶的地区，超车道为靠左的车道;在靠左行驶的地区，超车道为靠右的车道。</p><p class='maxtitle'><strong>超车技巧</strong></p><p class='subcontent'><b>1</b>要仔细观察、准确判断;</p><p class='subcontent'><b>2</b>超车应提前减档提速;</p><p class='subcontent'><b>3</b>若发现有意外情况，要沉着冷静、尽快减速、停止超越;</p><p class='subcontent'><b>4</b>超越路边车要提防。超越停驶车时，应利用发动机牵引阻力减速，多鸣喇叭，注意观察，加大与停驶车的横向间距，并做好停车等应急准备;</p><p class='subcontent'><b>5</b>超越车队时，要在超车视距良好的情况下，加速连续超越。若对面道路来车不能保证安全的横向间距时，应开右转向灯，见机插入车队，待对面车过后再超越车队。</p><p class='subcontent'><b>6</b>忌在前方有交叉路口时进行超车;</p><p class='subcontent'><b>7</b>忌在前有弯道、坡顶时进行超车;</p><p class='subcontent'><b>8</b>忌前方道路右侧有岔路口时进行超车;</p><p class='subcontent'><b>9</b>忌与对面来车有会车可能时进行超车;</p><p class='subcontent'><b>10</b>忌前车正在进行超车时超车。</p></div>
+
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+<div id="bottom_ad" style="display:none">
+<div style="text-align:center">
+<script src="http://m.jxedt.com/api/remotejs/appad.js" type="text/javascript"></script>
+</div>
+</div>
+</body>
+</html>

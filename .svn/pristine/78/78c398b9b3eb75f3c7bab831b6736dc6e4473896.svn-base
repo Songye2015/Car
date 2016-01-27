@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>合格标准_驾校一点通</title>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+<style>
+body{background: #f4f4f4 !important;}
+.zhunjiachexing-content{ text-align:center !important;padding-top: 14px;}
+.zhunjiachexing-content p{ text-indent:0 !important; text-align:center;}
+.zhunjiachexing-content p img{ border:none !important; max-width:98% !important;}
+.c-pic img{ border:none;}
+</style>
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+    <div class="c-content"><p class='subcontent'><b>1</b>扣留机动车：未悬挂车牌、检验合格标志、保险标志；未携带行驶证、伪造相关证件或使用其他车辆证件；在一个计分周期达到12分。</p><p class='subcontent'><b>2</b>收缴号费：伪造或假冒车牌号。</p><p class='subcontent'><b>3</b>警告：不按规定挂号牌。</p><p class='subcontent'><b>4</b>拘留15天：未有有效驾驶证（被吊销、被暂扣等）、造成交通事故后逃逸但不构成犯罪（逃逸吊销，终身不能重新取得）。</p><p class='subcontent'><b>5</b>吊销：将车给没有驾驶资格的人、超速50%、非法改装车辆、报废、无正当理由逾期不接受处理。</p><p class='subcontent'><b>6</b>有期徒刑：犯交通肇事罪的，处3年以下有期徒刑或者拘役；因交通事故逃逸致人死亡的，处7年以上15年以下。</p></div>
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+</body>
+</html>

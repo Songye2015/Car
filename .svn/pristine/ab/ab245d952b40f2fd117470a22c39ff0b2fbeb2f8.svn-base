@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title>停车、加速、减速、直线倒车</title>
+<script>var mobilequeryc = '',mobilequeryl='',mobilequery='';</script>
+<script>var brotherids = [],currid = 602;</script>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+
+    <div class="c-content"><p class='maxtitle'><strong>一、停车</strong></p><p>开右转向灯踩刹车，踩到车速10至20码，再踩离合器等车停稳后做以下动作： </p><p>1、拉手制动；</p><p>2、脱空档；</p><p>3、关右转向灯，先抬离合器后松刹车。</p><p class='maxtitle'><strong>二、加速</strong></p><p>1、一档换二档，慢慢抬起离合；</p><p>2、二档换三档，离合稍快抬起；</p><p>3、换挡不要低头看，凭感觉去控制它；</p><p>4、加档时机：车速随发动机声音变大而加快时，就可以加档了；</p><p>5、加档太早，会因为动力不足脱档；加档太晚，会照成燃料浪费；</p><p>6、因此，根据发动机声音和车速判断加档时机很重要~加档后汽车行驶无脱档现象就是最佳加档过程。</p><p class='maxtitle'><strong>三、减速</strong></p><p>1、离合器踩踏不到位会出现空转现象，这样容易磨损发动机，需要注意：</p><p>①降档时，车身剧烈抖动是因为降档动作太快，应该控制好降档速度；</p><p>②发动机熄火的原因是脚刹踩得过轻，或者离合器抬起太快。</p><p>2、降档正确步骤：</p><p>①抬起加速踏板的同时踩下离合；</p><p>②接着换挡，建议采用逐级降低的方式；</p><p>③然后抬起离合器踏板，同时踩下加速踏板，完成减档。</p>
+
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+<div id="bottom_ad" style="display:none">
+<div style="text-align:center">
+<script src="http://m.jxedt.com/api/remotejs/appad.js" type="text/javascript"></script>
+</div>
+</div>
+</body>
+</html>

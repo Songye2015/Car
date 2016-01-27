@@ -1,0 +1,121 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,maximum-scale=1, user-scalable=no">
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="email=no"/>
+            <title>跟车+会车+超车</title>
+            <link rel="stylesheet" href="app_common.css"/>
+            <style>
+                body {
+                    background-color: #f4f4f4;
+                }
+            
+            .item, .item * {
+                background-color: #fefefe;
+                
+            }
+            
+            .item {
+                margin-top: 15px;
+                border-top: solid 1px #d9d9d9;
+                border-bottom: solid 1px #d9d9d9;
+            }
+            
+            .item > h2, .item > h3 {
+                display: block;
+            }
+            
+            .item > * {
+                margin: 0 20px;
+            }
+            
+            .item > h2 {
+                color: #858585;
+                font-size: 16px;
+                font-weight: bold;
+                line-height: 20px;
+                margin-top: 15px;
+                margin-bottom: 10px;
+            }
+            
+            .item > h3 {
+                color: #858585;
+                font-size: 14px;
+                font-weight: normal;
+                line-height: 24px;
+                height: 24px;
+                margin-top: 5px;
+                margin-bottom: 5px;
+                border-bottom: solid 1px #efefef;
+            }
+            
+            .item > dl > dd {
+                position: relative;
+                color: #636363;
+                font-size: 14px;
+                font-weight: normal;
+                line-height: 20px;
+                margin: 10px 0 10px 30px;
+            }
+            
+            .item > dl > dd > i {
+                text-align: center;
+                font-size: 11px;
+                font-weight: normal;
+                line-height: 16px;
+                position: absolute;
+                display: block;
+                height: 14px;
+                width: 14px;
+                top: 0px;
+                left: -28px;
+                background-color: #a6a6a6;
+                color: white;
+                border-radius: 100px;
+                -o-border-radius: 100px;
+                -moz-border-radius: 100px;
+                -webkit-border-radius: 100px;
+            }
+            
+                </style>
+    </head>
+    <body>
+        <div class="item">
+            <h2>会车</h2>
+            
+            <h3>考试技巧</h3>
+            <dl>
+                <dd><i>1</i>系统发出会车指令后，考生要正确判断会车地点，会车有危险时，控制车速，提前避让，调整会车地点，会车时与对方车辆保持安全间距。</dd>
+                <dd><i>2</i>会车的要领是：刹车减速，靠右行驶。</dd>
+            </dl>
+            <h3>评判标准</h3>
+            <dl>
+                <dd><i>1</i>在没有中心隔离设施或中心线的道路上会车时，不减速靠右行驶，与行人、他车未保持安全距离，不合格；</dd>
+                <dd><i>2</i>会车困难时不让行，不合格；</dd>
+                <dd><i>2</i>横向安全间距判断差，紧急转向避让相对方向过来车，不合格；</dd>
+                <dd><i>2</i>夜间考试，按照规定使用远近灯交替示意。</dd>
+            </dl>
+        </div>
+        <div class="item">
+            <h2>超车</h2>
+            
+            <h3>超车驾驶技巧</h3>
+            <dl>
+                <dd><i>1</i>超车前，保持与被超车辆的安全跟车距离，从后视镜观察两侧交通情况，开启左转向灯，看后视镜，选择合理时机，鸣喇叭（夜间加交替远近光灯），从被超车辆的左侧超越。</dd>
+                <dd><i>2</i>超车时，侧头观察被超越车辆的动态，保持横向安全距离。</dd>
+                <dd><i>3</i>超越后，要保持直线行驶至少10秒，在不影响被超越车辆的情况下，开启右转向灯，看右后视镜，逐渐驶回原车道。</dd>
+            </dl>
+            <h3>评判标准</h3>
+            <dl>
+                <dd><i>1</i>超车前不通过内、外后视镜观察后方和左侧交通情况，不合格；</dd>
+                <dd><i>2</i>超车时机选择不合理，影响其他车辆正常行驶，不合格；</dd>
+                <dd><i>3</i>超车时未与被超越车辆保持安全距离，不合格；</dd>
+                <dd><i>4</i>超车后急转向驶回本车道，妨碍被超车辆正常行驶，不合格；</dd>
+                <dd><i>5</i>从右侧超车，不合格；</dd>
+                <dd><i>6</i>当后车发出超车信号时，具备让车条件不减速靠右让行，扣10分。</dd>
+            </dl>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,117 @@
+{
+    
+    
+    "pingpanbiaozhun": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "localweb",
+        "title": "评判标准",
+        "url": "608"
+    },
+    "shiliuxiangmiji": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "CommonNativeList",
+        "title": "16项秘籍",
+        "url": "",
+        "jsondata":"[{\"id\":610,\"pid\":609,\"title\":\"上车准备\",\"isclass\":0,\"sinfo\":\"上车前的准备事项\"},{\"id\":611,\"pid\":609,\"title\":\"起步\",\"isclass\":0,\"sinfo\":\"发动汽车，使汽车开始走动\"},{\"id\":612,\"pid\":609,\"title\":\"直线行驶\",\"isclass\":0,\"sinfo\":\"了解行驶速度、注意观察路状\"},{\"id\":613,\"pid\":609,\"title\":\"变更车道\",\"isclass\":0,\"sinfo\":\"变更车道技巧，操作方法\"},{\"id\":614,\"pid\":609,\"title\":\"靠边停车\",\"isclass\":0,\"sinfo\":\"靠边停车操作步骤\"},{\"id\":615,\"pid\":609,\"title\":\"通过路口\",\"isclass\":0,\"sinfo\":\"操作方法，注意事项\"},{\"id\":616,\"pid\":609,\"title\":\"路口左转弯\",\"isclass\":0,\"sinfo\":\"注意事项，评分标准\"},{\"id\":617,\"pid\":609,\"title\":\"路口右转弯\",\"isclass\":0,\"sinfo\":\"注意事项，评分标准\"},{\"id\":618,\"pid\":609,\"title\":\"通过人行横道线\",\"isclass\":0,\"sinfo\":\"学车中的通过人行横道线\"},{\"id\":619,\"pid\":609,\"title\":\"通过学校区域\",\"isclass\":0,\"sinfo\":\"通过学校区域的要求、方法\"},{\"id\":620,\"pid\":609,\"title\":\"通过公共汽车站\",\"isclass\":0,\"sinfo\":\"通过公共汽车站要求、方法\"},{\"id\":621,\"pid\":609,\"title\":\"会车\",\"isclass\":0,\"sinfo\":\"会车技巧、攻略\"},{\"id\":622,\"pid\":609,\"title\":\"超车\",\"isclass\":0,\"sinfo\":\"超车技巧\"},{\"id\":623,\"pid\":609,\"title\":\"掉头\",\"isclass\":0,\"sinfo\":\"掉头技巧，操作方法\"},{\"id\":624,\"pid\":609,\"title\":\"百米加减档\",\"isclass\":0,\"sinfo\":\"百米加减档方法\"},{\"id\":625,\"pid\":609,\"title\":\"夜间行驶\",\"isclass\":0,\"sinfo\":\"夜间行驶考试技巧\"}]"
+    },
+    "yekaoxuzhi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "localweb",
+        "title": "夜考须知",
+        "url": "626"
+    },
+    "lukaomijue": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "localweb",
+        "title": "路考秘诀",
+        "url": "627"
+    },
+    
+    
+    
+    "kaochangjingyan": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "localweb",
+        "title": "考场经验",
+        "url": "628"
+    },
+    "kefukongju": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "localweb",
+        "title": "克服恐惧",
+        "url": "629"
+    },
+    "kaoshijiaoliu": {
+        "actiontype": "loadpage",
+        "extparam": {
+            "infoid":"203"
+        },
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "bbsgrouplist",
+        "title": "考试交流",
+        "url": "http://bbs.jxedt.com/forum-4-1.html?="
+    },
+    "mijizhidao": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "link",
+        "title": "秘籍指导",
+        "url": "http://bbs.api.jxedt.com/news/h5/206/index"
+    },
+    
+    
+    
+    "dengguangcaozuo": {
+        "actiontype": "loadpage",
+        "extparam": "light",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "lightopration",
+        "title": "灯光操作",
+        "url": ""
+    },
+    
+    "yuyinmoni": {
+        "actiontype": "loadpage",
+        "extparam": "voice",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "voicesimulation",
+        "title": "语音模拟",
+        "url": ""
+    },
+    
+    
+    "shipinxiazailiebiao": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "videodownloadlist",
+        "title": "视频列表",
+        "url": ""
+    },
+    
+    "shipinbofang": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType3rd",
+        "pagetype": "videoplay",
+        "title": "视频播放",
+        "url": ""
+    }
+    
+    
+    
+    
+}

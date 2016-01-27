@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,maximum-scale=1, user-scalable=no">
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="email=no"/>
+            <title>变更车道+掉头+靠边停车</title>
+            <link rel="stylesheet" href="app_common.css"/>
+            <style>
+                body {
+                    background-color: #f4f4f4;
+                }
+            
+            .item, .item * {
+                background-color: #fefefe;
+                
+            }
+            
+            .item {
+                margin-top: 15px;
+                border-top: solid 1px #d9d9d9;
+                border-bottom: solid 1px #d9d9d9;
+            }
+            
+            .item > h2, .item > h3 {
+                display: block;
+            }
+            
+            .item > * {
+                margin: 0 20px;
+            }
+            
+            .item > h2 {
+                color: #858585;
+                font-size: 16px;
+                font-weight: bold;
+                line-height: 20px;
+                margin-top: 15px;
+                margin-bottom: 10px;
+            }
+            
+            .item > h3 {
+                color: #858585;
+                font-size: 14px;
+                font-weight: normal;
+                line-height: 24px;
+                height: 24px;
+                margin-top: 5px;
+                margin-bottom: 5px;
+                border-bottom: solid 1px #efefef;
+            }
+            
+            .item > dl > dd {
+                position: relative;
+                color: #636363;
+                font-size: 14px;
+                font-weight: normal;
+                line-height: 20px;
+                margin: 10px 0 10px 30px;
+            }
+            
+            .item > dl > dd > i {
+                text-align: center;
+                font-size: 11px;
+                font-weight: normal;
+                line-height: 16px;
+                position: absolute;
+                display: block;
+                height: 14px;
+                width: 14px;
+                top: 0px;
+                left: -28px;
+                background-color: #a6a6a6;
+                color: white;
+                border-radius: 100px;
+                -o-border-radius: 100px;
+                -moz-border-radius: 100px;
+                -webkit-border-radius: 100px;
+            }
+            
+                </style>
+    </head>
+    <body>
+        <div class="item">
+            <h2>变更车道</h2>
+            
+            <h3>变更车道考试技巧</h3>
+            <dl>
+                <dd><i>1</i>系统听到“变更车道”指令后，考生必须在100米内完成，且时间不能超过1分钟。</dd>
+                <dd><i>2</i>在考试过程中，究竟是向左还是向右变更车道，考生根据实际交通情况自主决定；向当前行驶车道的临近车道变更。</dd>
+                <dd><i>3</i>变更车道时，要保持与目标车道上行驶车辆的安全距离，控制行驶速度，不得妨碍其他车辆的正常行驶。车向哪拐就向哪拨转向灯，看哪边的后视镜，向哪边打方向盘改道。</dd>
+            </dl>
+            <h3>评判标准</h3>
+            <dl>
+                <dd><i>1</i>变更车道前，不通过内、外后视镜观察后方道路交通情况，不合格；</dd>
+                <dd><i>2</i>变更车道时，判断车辆安全距离不合理，妨碍其他车辆正常行驶，不合格；</dd>
+                <dd><i>3</i>连续变更两条以上车道，不合格。</dd>
+            </dl>
+        </div>
+        <div class="item">
+            <h2>掉头</h2>
+            
+            <h3>掉头考试技巧</h3>
+            <dl>
+                <dd><i>1</i>顺道掉头。考官发出顺道掉头指令，如果道路单向只有一条车道，掉头时开左转向灯，借右边人行道掉头，线路如灯泡状。</dd>
+                <dd><i>2</i>路口掉头。考官发出路口掉头指令，如果路口有红绿灯，务必等绿灯亮时，借右边人行道画灯泡状掉头；如果路口没有红绿灯，务必先把车辆停下来观察四周、确定安全后画灯泡状掉头。一般地，多数单向一条车道的路口会分直行左转弯和右转弯两条车道，这时务必选直行左转弯车道掉头。</dd>
+                <dd><i>3</i>两车道掉头。听到口令或见掉头标志，踩离合带刹车降低车速，换1挡抬离合器，开左转向灯，先往右转一圈方向，迅速往左2把，掉头后适时回正方向。</dd>
+                <dd><i>4</i>四车道掉头。听到口令，开左转灯，变道进入快车道，再开左转灯，踩离合带刹车放慢车速，换1挡，先往右转一圈方向，迅速往左2把，掉头后适时回正方向，掉头进入快车道，过了白线变入慢车道。</dd>
+            </dl>
+            <h3>评判标准</h3>
+            <dl>
+                <dd><i>1</i>掉头前，不能正确观察交通情况选择掉头时机，不合格；</dd>
+                <dd><i>2</i>掉头前，掉头地点选择不当，不合格；</dd>
+                <dd><i>3</i>掉头前，要先发出掉头信号；</dd>
+                <dd><i>4</i>掉头时，妨碍正常行驶的其他车辆和行人通行，不合格；</dd>
+                <dd><i>5</i>掉头时，一定要减速，缓慢掉头；</dd>
+                <dd><i>6</i>掉头时，应将双脚放在离合、脚刹上方，做好随时停车准备。</dd>
+            </dl>
+        </div>
+        <div class="item">
+            <h2>靠边停车</h2>
+            <h3>靠边停车考试技巧</h3>
+            <dl>
+                <dd><i>1</i>考试员发出“靠边停车”指令，考生听到命令后准备停车，打右转向灯。</dd>
+                <dd><i>2</i>观察右后视镜(要有明显的摆头动作，要不会被误认为不看后视镜的)，观察周围环境。</dd>
+                <dd><i>3</i>松油减速。</dd>
+                <dd><i>4</i>动方向，确定停车位。</dd>
+                <dd><i>5</i>停车后车辆距离道路右侧边缘线或人行道边缘距离30CM以内。</dd>
+                <dd><i>6</i>停车后先拉手刹再回空挡，将转向灯回正并将发动机熄火，在车内开门前要先看左后视镜(做侧头动作)，观察侧后方和左侧交通情况再推门下车，下车后关好车门。</dd>
+                <dd><i>7</i>夜间在路边停车时要关闭前照灯、开启警示灯，做好安全防护措施，以免发生事故。</dd>
+            </dl>
+            <h3>评判标准</h3>
+            <dl>
+                <dd><i>1</i>停车前，不通过内、外后视镜观察后方和右侧交通情况的，不合格；</dd>
+                <dd><i>2</i>考试员发出靠边停车指令后，未能在规定的距离内停车的，不合格；</dd>
+                <dd><i>3</i>停车后，车身超过道路右侧边缘线或者人行道边缘的，不合格；</dd>
+                <dd><i>4</i>停车后，在车内开门前不侧头观察侧后方和左侧交通情况的，不合格；</dd>
+                <dd><i>5</i>下车后不关闭车门的，不合格；</dd>
+                <dd><i>6</i>停车后，车身距离道路右侧边缘线或者人行道边缘大于30cm的，扣10分；</dd>
+                <dd><i>7</i>停车后，未拉紧驻车制动器的，扣10分；</dd>
+                <dd><i>8</i>拉紧驻车制动器前放松行车制动踏板的，扣10分；</dd>
+                <dd><i>9</i>下车前不将发动机熄火的，扣5分。</dd>
+            </dl>
+            
+        </div>
+    </body>
+</html>

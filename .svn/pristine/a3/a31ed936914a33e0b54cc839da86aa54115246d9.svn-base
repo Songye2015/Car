@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1,user-scalable=no">
+<title></title>
+<link href="miji.css" rel="stylesheet" type="text/css" />
+<link href="css.css?v=7" rel="stylesheet" type="text/css" />
+<style>
+body{background: #f4f4f4 !important;}
+.zhunjiachexing-content{ text-align:center !important;padding-top: 14px;}
+.zhunjiachexing-content p{ text-indent:0 !important; text-align:center;}
+.zhunjiachexing-content p img{ border:none !important; max-width:98% !important;}
+.c-pic img{ border:none;}
+</style>
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+<div class="showContainer"><div class="itemContainer"></div><div class="itemContainer">
+<div class="content">
+    <div class="c-content"></div>
+</div>
+
+</div>
+<div class="itemContainer"></div>
+</div>
+</div>
+</body>
+</html>

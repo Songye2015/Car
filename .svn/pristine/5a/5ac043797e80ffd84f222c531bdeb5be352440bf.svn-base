@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN"
+        "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+    <title>学车流程</title>
+    <script>var mobilequeryc = '',mobilequeryl='',mobilequery='';</script>
+    <script>var brotherids = [],currid = 83;</script>
+    <link href="miji.css" rel="stylesheet" type="text/css"/>
+    <link href="css.css?v=7" rel="stylesheet" type="text/css"/>
+
+</head>
+<body style="overflow-x:hidden">
+<div id="outContainer">
+    <div class="showContainer">
+        <div class="itemContainer"></div>
+        <div class="itemContainer">
+            <div class="content">
+
+                <div class="c-content">
+
+
+                    考试顺序按照科目一、科目二、科目三、科目四依次进行，前一科目考试合格后，可以参加下一科目的考试；前一科目考试不合格的，继续该科目考试。
+
+
+                    <p class='maxtitle'><strong>科目一</strong></p>
+
+                    <p class='subcontent'><b>1</b>考试内容：主要考核道路交通安全法律法规、交通信号、通行规则等基本知识。
+                    </p>
+
+                    <p class='subcontent'><b>2</b>45分钟。
+                    </p>
+
+                    <p class='subcontent'><b>3</b>试卷由100道题目组成，题型为判断题、单项选择题。</p>
+
+                    <p class='subcontent'><b>4</b>满分100分，90分合格。</p>
+
+                    <p class='subcontent'><b>5</b>没有预约次数的限制。
+                    </p>
+
+
+                    <p class='maxtitle'><strong>科目二</strong></p>
+
+                    <p class='subcontent'><b>1</b>考试内容：为小型汽车训练和考试均为5项，即倒车入库、坡道定点停车与起步、侧方停车、曲线行驶和直角转弯。
+                    </p>
+
+                    <p class='subcontent'><b>2</b>关于补考：每个科目考试不合格的可以补考一次，即科目二有10次考试机会。第5次预约考试仍不合格的，已考试合格的其他项目作废。</p>
+
+                    <p class='subcontent'><b>3</b>关于补考预约时间：科目二考试不合格的，重新申请考试的预约时间为10日。
+                    </p>
+
+                    <p class='subcontent'><b>4</b>特别提示：考试标线代替杆，中途停车不合格。</p>
+
+                    <p class='subcontent'><b>5</b>新规实施后，桩考场考合并，小型汽车桩考改为倒车入库，两个桩位之间的移库被取消。
+                    </p>
+
+                    <p class='subcontent'><b>6</b>考试中用规划标线替换标杆，学员考试时，要求车轮不压碰车道边线、库位边线。</p>
+
+                    <p class='maxtitle'><strong>科目三</strong></p>
+
+                    <p class='subcontent'><b>1</b>考试内容：道路路考考试项目包括上车准备（包括系安全带、观察、打左转向灯）、起步、直线行驶、加减挡位操作、变更车道、靠边停车、直行通过路口、路口左转弯、路口右转弯、通过人行横道线、通过学校区域、通过公共汽车站、会车、超车、掉头、夜间行驶。</p>
+
+                    <p class='subcontent'><b>2</b>小型汽车考试里程不少于3公里，并抽取不少于20%进行夜间考试；不进行夜间考试的，应当进行模拟夜间灯光使用考试。</p>
+
+                    <p class='subcontent'><b>3</b>关于补考：道路驾驶技能考试考试不合格的，可以补考一次，即科目三有10次考试机会。</p>
+
+                    <p class='subcontent'><b>4</b>第5次预约考试仍不合格的，已考试合格的其他项目作废。
+                    </p>
+
+                    <p class='subcontent'><b>5</b>关于补考预约时间：科目三考试不合格的，重新申请考试的预约时间为10日。
+                    </p>
+
+                    <p class='subcontent'><b>6</b>特别提示：驾驶技能准考证明在有效期内，科目三驾驶技能考试的预约次数不得超过5次。</p>
+
+                    <p class='maxtitle'><strong>科目四</strong></p>
+
+                    <p class='subcontent'><b>1</b>考试内容：安全文明驾驶常识考试要内容包括，安全文明驾驶操作要求、恶劣气象和复杂道路条件下的安全驾驶知识、爆胎等紧急情况下的临危处置方法以及发生交通事故后的处置知识等内容。
+                    </p>
+
+                    <p class='subcontent'><b>2</b>考试时间：30分钟。
+                    </p>
+
+                    <p class='subcontent'><b>3</b>考试题型：考试试卷由50道题目组成，题目以案例、图片、动画等形式为主，题型为判断题、单项选择题和多项选择题。</p>
+
+                    <p class='subcontent'><b>4</b>考试分值：满分100分，90分合格。</p>
+                    <p class='subcontent'><b>5</b>特别提示：安全文明驾驶考试没有预约次数的限制，安全文明驾驶考试不合格的，已通过的的道路驾驶技能考试成绩仍然有效。</p>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="itemContainer"></div>
+</div>
+</div>
+<div id="bottom_ad" style="display:none">
+    <div style="text-align:center">
+        <script src="http://m.jxedt.com/api/remotejs/appad.js" type="text/javascript"></script>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,96 @@
+{
+    
+    
+    "kaoqianzhunbei": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "localweb",
+        "title": "考前准备",
+        "url": "83"
+    },
+    "hegebiaozhun": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "localweb",
+        "title": "合格标准",
+        "url": "212"
+    },
+    "poqiyaoling": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "localweb",
+        "title": "坡起要领",
+        "url": "602"
+    },
+    "cefangtingche": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "localweb",
+        "title": "侧方停车",
+        "url": "603"
+    },
+    "kaoshijingyan": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "localweb",
+        "title": "考试经验",
+        "url": "788"
+    },
+    
+    "quxianxingshi": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "localweb",
+        "title": "曲线行驶",
+        "url": "604"
+    },
+    "zhijiaozhuanwan": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "localweb",
+        "title": "直角转弯",
+        "url": "605"
+    },
+    "daocheruku": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "localweb",
+        "title": "倒车入库",
+        "url": "606"
+    },
+    "mijizhidao": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "link",
+        "title": "秘籍指导",
+        "url": "http://bbs.api.jxedt.com/news/h5/205/index"
+    },
+    
+    
+    "shipinxiazailiebiao": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "videodownloadlist",
+        "title": "视频列表",
+        "url": ""
+    },
+    
+    "shipinbofang": {
+        "actiontype": "loadpage",
+        "extparam": "",
+        "subjecttype":"SubjectType2nd",
+        "pagetype": "videoplay",
+        "title": "视频播放",
+        "url": ""
+    }
+}

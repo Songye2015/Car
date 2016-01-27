@@ -1,0 +1,110 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,maximum-scale=1, user-scalable=no">
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="email=no"/>
+            <title>通过人行横道、公交车站、学校和路口</title>
+            <link rel="stylesheet" href="app_common.css"/>
+            <style>
+                body {
+                    background-color: #f4f4f4;
+                }
+            
+            .item, .item * {
+                background-color: #fefefe;
+                
+            }
+            
+            .item {
+                margin-top: 15px;
+                border-top: solid 1px #d9d9d9;
+                border-bottom: solid 1px #d9d9d9;
+            }
+            
+            .item > h2, .item > h3 {
+                display: block;
+            }
+            
+            .item > * {
+                margin: 0 20px;
+            }
+            
+            .item > h2 {
+                color: #858585;
+                font-size: 16px;
+                font-weight: bold;
+                line-height: 20px;
+                margin-top: 15px;
+                margin-bottom: 10px;
+            }
+            
+            .item > h3 {
+                color: #858585;
+                font-size: 14px;
+                font-weight: normal;
+                line-height: 24px;
+                height: 24px;
+                margin-top: 5px;
+                margin-bottom: 5px;
+                border-bottom: solid 1px #efefef;
+            }
+            
+            .item > dl > dd {
+                position: relative;
+                color: #636363;
+                font-size: 14px;
+                font-weight: normal;
+                line-height: 20px;
+                margin: 10px 0 10px 30px;
+            }
+            
+            .item > dl > dd > i {
+                text-align: center;
+                font-size: 11px;
+                font-weight: normal;
+                line-height: 16px;
+                position: absolute;
+                display: block;
+                height: 14px;
+                width: 14px;
+                top: 0px;
+                left: -28px;
+                background-color: #a6a6a6;
+                color: white;
+                border-radius: 100px;
+                -o-border-radius: 100px;
+                -moz-border-radius: 100px;
+                -webkit-border-radius: 100px;
+            }
+            
+                </style>
+    </head>
+    <body>
+        <div class="item">
+            <h2>通过人行横道、公交车站、学校和路口
+            </h2>
+            
+            <h3>考试技巧</h3>
+            <dl>
+                <dd><i>1</i>通过人行横道：提前减速，鸣笛示意，观察两侧交通情况，确认安全后，合理控制车速通过，遇行人停车让行。</dd>
+                <dd><i>2</i>通过学校区域：提前减速、禁止鸣笛，观察情况，文明礼让，确保安全通过，遇有学生横过马路及时停车让行。</dd>
+                <dd><i>3</i>通过公交车站：提前减速，观察公共汽车进、出站动态和乘客上下动态，着重注意同向公共汽车前方或对向公共汽车后方有无行人横穿马路。</dd>
+                <dd><i>4</i>通过路口：让车减速，观察路口的情况，控制车速，控制在50km/h以下，要左转时，稍等一下右转车;要右转时，稍等一下左转车。车在路口要起步时，要观察一下周围，以防有人抢红灯。</dd>
+            </dl>
+            <h3>评判标准</h3>
+            <dl>
+                <dd><i>1</i>不观察左、右交通情况，不合格；</dd>
+                <dd><i>2</i>不按规定减速慢行，不合格；</dd>
+                <dd><i>3</i>遇行人通过人行横道不停车让行，不合格；</dd>
+                <dd><i>4</i>不主动避让优先通过车辆、行人、非机动车等，不合格；</dd>
+                <dd><i>5</i>夜间考试，必须使用远近灯交替示意。</dd>
+            </dl>
+            <h3>通关秘籍</h3>
+            <dl>
+                <dd>在实际道路驾驶中，如遇车辆、人流密集，一定要减速换低挡，必要时宁可停车，千万莫犹豫不决，让考官踩了制动，肯定不及格。</dd>
+            </dl>
+        </div>
+    </body>
+</html>

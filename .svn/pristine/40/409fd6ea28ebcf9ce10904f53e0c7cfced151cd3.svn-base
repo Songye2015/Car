@@ -1,0 +1,119 @@
+{
+    "top":{
+        "content":  [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "bbs",
+                     "title": "驾友圈",
+                     "url": ""
+                     },
+                     "desc": "",
+                     "iconurl": "jiayouquan",
+                     "itemname": "驾考社区"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "101"
+                     },
+                     "pagetype": "headLine",
+                     "title": "驾考头条",
+                     "url": "http://bbs.api.jxedt.com/news/h5/101/index"
+                     },
+                     "desc": "",
+                     "iconurl": "jktoutiao",
+                     "itemname": "驾考头条"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "driverguide",
+                     "title": "学车指南",
+                     "url": ""
+                     },
+                     "desc": "",
+                     "iconurl": "xueczn",
+                     "itemname": "学车指南"
+                     }]
+    },
+    "center":{
+        "content":  [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "learnrecord",
+                     "title": "学车记录",
+                     "url": ""
+                     },
+                     "desc": "",
+                     "iconurl": "xuecjilu",
+                     "itemname": "学车记录"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "225",
+                     "catetype":"0"
+                     },
+                     "pagetype": "bbsgrouplist",
+                     "title": "学车直播",
+                     "url": ""
+                     },
+                     "desc": "",
+                     "iconurl": "xueczhibo",
+                     "itemname": "学车直播"
+                     },
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": {
+                     "infoid": "5",
+                     "catetype":"0"
+                     },
+                     "pagetype": "bbsgrouplist",
+                     "title": "学车问答",
+                     "url": ""
+                     },
+                     "desc": "",
+                     "iconurl": "xuecwenda",
+                     "itemname": "学车问答"
+                     }]
+    },
+    "bottom":{
+        "content":  [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "link",
+                     "title": "我的教练",
+                     "url": ""
+                     },
+                     "desc": "",
+                     "iconurl": "wdjiaolian",
+                     "itemname": "我的教练"
+                     }]
+    },
+    "mylearnrecord":{
+        "content":  [
+                     {
+                     "action": {
+                     "actiontype": "loadpage",
+                     "extparam": "",
+                     "pagetype": "my",
+                     "title": "我的学车日记",
+                     "url": ""
+                     },
+                     "desc": "",
+                     "iconurl": "xuecriji",
+                     "itemname": "我的学车日记"
+                     }]
+    }
+    
+}
