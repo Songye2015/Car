@@ -13,7 +13,7 @@
 @end
 
 @implementation NewCarViewController
-
+降价
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
